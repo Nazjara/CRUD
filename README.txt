@@ -1,5 +1,5 @@
 Install order:
-1)Open project with IDEA.
+1)Open project with your IDE.
 2)Import database to MySQL using TestBase.sql file in root directory. Database with name "test" will be created from scratch or rewrite existing database with a same name.
 3)Connect created database to project. Database login and password are the same - "root".
 4)In folder "src\main\resources" open the file "application.properties". In this file, change values of keys "database.username" and "database.password" according to your connection data in MySQL.
