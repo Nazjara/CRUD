@@ -1,3 +1,5 @@
+Simple Create, Read, Update, Delete Java application using Maven, Spring MVC, MySQL, Tomcat, Hibernate frameworks.
+
 Install order:
 1)Open project with your IDE.
 2)Import database to MySQL using TestBase.sql file in root directory. Database with name "test" will be created from scratch or rewrite existing database with a same name.
