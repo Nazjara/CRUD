@@ -8,7 +8,7 @@
 	<name>CRUD</name>
 
 	<properties>
-		<spring.version>5.2.3.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<hibernate.version>4.3.8.Final</hibernate.version>
 		<mysql.version>8.0.16</mysql.version>
 		<servlet-api-version>3.1.0</servlet-api-version>
